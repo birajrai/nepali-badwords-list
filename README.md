@@ -1,0 +1,1 @@
+# nepali-badwords-list
